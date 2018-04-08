@@ -1,0 +1,9 @@
+The objective of this mini project is to get familiarized with Apache Spark. 
+1. To run spark shell
+
+  spark-shell --master yarn-client
+
+2. To run task 2
+
+     Type :paste in spark shell, then copy the code in task2/task2.scala and paste it in spark shell, then control + d
+
